@@ -15,8 +15,8 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  projects: http://github.com/pigeon1990
   articles: /archives/
+  projects: http://github.com/pigeon1990
   about: /about/
 
 
